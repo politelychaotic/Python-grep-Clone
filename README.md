@@ -1,7 +1,7 @@
 # Python-grep-Clone
 Clone for grep written in Python using `argparse` and `sys`.
 
-**Use**
+## Use
 To read a file and "grep" lines that match: `python grep_python.py [options] [pattern] [path/to/file]`
 To read stdin and find matches you can pipe from a utility like `cat`: `cat [path/to/file] | python grep_python.py [options] [pattern]`
 
