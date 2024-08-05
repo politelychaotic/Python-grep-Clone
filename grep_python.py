@@ -1,4 +1,7 @@
 #!/bin/python
+
+# Author(s) politelychaotic
+
 import argparse
 import sys
 
